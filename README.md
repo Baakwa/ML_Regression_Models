@@ -52,6 +52,5 @@ Four models were trained for the prediction of sales.These models included linea
 
 
 # Links
-   
-This repository talks about regression model for a time series forcasting problem
-
+Below is a link to an interactive dashboard on Power BI 
+https://app.powerbi.com/groups/me/reports/d95ae1b9-98d6-4417-89ed-d2d66de6b8f3/ReportSection?experience=power-bi
